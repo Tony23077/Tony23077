@@ -24,6 +24,6 @@ Trainee/junior positions in computer vision, perception, or autonomous systems. 
 
 ## 📫 Let's connect
 
-- LinkedIn: [your LinkedIn URL]
+- LinkedIn: www.linkedin.com/in/antoniomendozarobotica
 - Based in Querétaro, México
 
