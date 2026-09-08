@@ -13,8 +13,8 @@ I'm finishing my degree in Ingeniería en Robótica y Sistemas Digitales (Aug 20
 
 ## 🚀 Featured projects
 
-- **[Real-time Color Detection](#)** — HSV-based color masking and detection pipeline in OpenCV
-- **[Geometric Shape Detection](#)** — Contour analysis and shape classification using `cv2.approxPolyDP`
+- **[color-shape-detection-opencv](#)** — HSV-based color masking and detection pipeline in OpenCV
+- **[realtime-color-detection-opencv](#)** — Contour analysis and shape classification using `cv2.approxPolyDP`
 
 *(More projects — autonomous traffic sign detection robot, ArUco-based navigation — coming soon.)*
 
