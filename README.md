@@ -13,8 +13,8 @@ I'm finishing my degree in Ingeniería en Robótica y Sistemas Digitales (Aug 20
 
 ## 🚀 Featured projects
 
-- **[https://github.com/Tony23077/realtime-color-detection-opencv](#)** — HSV-based color masking and detection pipeline in OpenCV
-- **[https://github.com/Tony23077/color-shape-detection-opencv](#)** — Contour analysis and shape classification using `cv2.approxPolyDP`
+- **(https://github.com/Tony23077/realtime-color-detection-opencv)** — HSV-based color masking and detection pipeline in OpenCV
+- **(https://github.com/Tony23077/color-shape-detection-opencv)** — Contour analysis and shape classification using `cv2.approxPolyDP`
 
 *(More projects — autonomous traffic sign detection robot, ArUco-based navigation — coming soon.)*
 
