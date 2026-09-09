@@ -11,10 +11,10 @@ I'm finishing my degree in Ingeniería en Robótica y Sistemas Digitales (Aug 20
 - **Embedded/Robotics:** ESP32, Raspberry Pi, dual-controller architectures (vision + real-time control over UART)
 - **Currently learning:** MATLAB, ROS
 
-## 🚀 Featured projects
+## 🎥 Computer Vision
 
-- **[realtime_color_detection_opencv](https://github.com/Tony23077/realtime-color-detection-opencv)** — HSV-based color masking and detection pipeline in OpenCV
-- **[color_shape_detection_opencv](https://github.com/Tony23077/color-shape-detection-opencv)** — Contour analysis and shape classification using `cv2.approxPolyDP`
+- **[Realtime-Color Detection OpenCV](https://github.com/Tony23077/realtime-color-detection-opencv)** — HSV-based color masking and detection pipeline in OpenCV
+- **[Color + Shape Detection](https://github.com/Tony23077/color-shape-detection-opencv)** — Contour analysis and shape classification using `cv2.approxPolyDP`
 
 *(More projects — autonomous traffic sign detection robot, ArUco-based navigation — coming soon.)*
 
