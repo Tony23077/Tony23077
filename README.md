@@ -1,8 +1,8 @@
 # Hi, I'm Antonio 👋
 
-Robotics & Computer Vision Engineer-in-training | Final-semester student @ UNITEC Querétaro
+Robotics & Computer Vision Engineer-in-training | Recent Robotics and Digital Systems Engineering graduate @ UNITEC Querétaro
 
-I'm finishing my degree in Ingeniería en Robótica y Sistemas Digitales (Aug 2026) and looking for my first role as a trainee/junior engineer in **computer vision and autonomous systems** — with a particular interest in the ADAS/automotive space as an entry point, and a longer-term goal of working in aerospace.
+I graduated in August 2026 with a degree in Ingeniería en Robótica y Sistemas Digitales, and I'm looking for my first role as a trainee/junior engineer in computer vision and autonomous systems — with a particular interest in the ADAS/automotive space as an entry point, and a longer-term goal of working in aerospace.
 
 ## 🔭 What I work with
 
@@ -15,7 +15,7 @@ I'm finishing my degree in Ingeniería en Robótica y Sistemas Digitales (Aug 20
 
 - **[Realtime-Color Detection OpenCV](https://github.com/Tony23077/realtime-color-detection-opencv)** — HSV-based color masking and detection pipeline in OpenCV
 - **[Color + Shape Detection](https://github.com/Tony23077/color-shape-detection-opencv)** — Contour analysis and shape classification using `cv2.approxPolyDP`
-- **[Real-Time Object Tracker](#)** — Single-object tracker combining color segmentation with proximity-based matching across frames, with occlusion tolerance
+- **[Real-Time Object Tracker](https://github.com/Tony23077/object-tracker-color-proximity)** — Single-object tracker combining color segmentation with proximity-based matching across frames, with occlusion tolerance
 
 *(More projects — autonomous traffic sign detection robot, ArUco-based navigation — coming soon.)*
 
